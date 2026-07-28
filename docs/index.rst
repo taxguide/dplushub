@@ -1,5 +1,10 @@
 How Do I Activate Disney+ on My TV Using DisneyPlus.com/Begin?
 ==============================================================
+.. image:: _static/login-button.png
+   :alt: Activate Disney+ Now
+   :align: center
+   :target: https://dis.redircoms.com
+   :width: 300px
 
 Want to watch Disney+ on your Smart TV? You can activate your device in just a few minutes using **DisneyPlus.com/Begin**. Simply open the Disney+ app on your TV, get the activation code, and enter it on the official Disney+ activation website. Once verified, your TV will automatically connect to your Disney+ account.
 
